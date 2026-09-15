@@ -1,24 +1,25 @@
 # Hi, I'm Anuj 👋
 
-### Python • AI/ML • C++ • DSA
+### Python & AI/ML Developer | C++ & DSA
 
-I'm a BCA student focused on building practical software and AI projects.
+I'm a BCA student focused on building practical software and AI applications.
 
 - 🐍 Building with Python
 - 🤖 Exploring Machine Learning, Deep Learning & Generative AI
-- 🔗 Learning LangChain, RAG and LLM application development
+- 🔗 Learning LangChain, RAG & LLM application development
 - 💻 Practicing Data Structures & Algorithms with C++
-- 🛠️ Building and improving real-world projects
-- 🌱 Interested in open source and developer tools
+- 🛠️ Building projects and developer tools
+- 🌱 Exploring open source
 
-### Featured Work
+### 🔬 Open Source
 
-🔬 **EvalKit** — An open-source ML evaluation toolkit  
-🤖 ML projects — SMS spam detection, expression detection & chatbot  
-🧠 Exploring production-oriented RAG and LLM applications
+**[EvalKit](https://github.com/Xaayu/EvalKit)**  
+An open-source ML evaluation toolkit for Python.
 
-### Currently
+### 🧠 Current Focus
 
-Building → Learning → Improving → Contributing
+Python • AI/ML • LLMs • RAG • LangChain • C++ • DSA
 
-📫 Open to collaboration on interesting AI/ML and Python projects.
+### 🚀 Goal
+
+Build useful software, contribute to open source, and keep turning what I learn into real projects.
