@@ -1,20 +1,24 @@
-🚀 "About Me"
+# Hi, I'm Anuj 👋
 
-🎓 Aspiring Software Developer | C++ & Python Enthusiast
+### Python • AI/ML • C++ • DSA
 
-🧩 Love solving problems with Data Structures & Algorithms
+I'm a BCA student focused on building practical software and AI projects.
 
-🌱 Currently learning Python, Web Development & AI Tools
+- 🐍 Building with Python
+- 🤖 Exploring Machine Learning, Deep Learning & Generative AI
+- 🔗 Learning LangChain, RAG and LLM application development
+- 💻 Practicing Data Structures & Algorithms with C++
+- 🛠️ Building and improving real-world projects
+- 🌱 Interested in open source and developer tools
 
-🛠 Building projects with Tkinter, Turtle, and C++
+### Featured Work
 
-🎯 Goal: Master AI & Full-Stack Development in the next 2–3 years
+🔬 **EvalKit** — An open-source ML evaluation toolkit  
+🤖 ML projects — SMS spam detection, expression detection & chatbot  
+🧠 Exploring production-oriented RAG and LLM applications
 
+### Currently
 
-💡 "Interests"
+Building → Learning → Improving → Contributing
 
-Building practical apps that help people learn & work faster
-
-Exploring AI-powered productivity tools
-
-Creating content for beginners in Hindi + English
+📫 Open to collaboration on interesting AI/ML and Python projects.
