@@ -1,64 +1,75 @@
-<div align="center">
-
 # Hi, I'm Anuj 👋
 
-### **Python & AI/ML Developer | Software Engineering Student**
+### Aspiring AI Engineer | Machine Learning • Deep Learning • LLM Fine-Tuning
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xaayu&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building_Things-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-AI_%2F_ML_%2F_LLMs-blue?style=flat-square" alt="Focus" />
-</p>
+I’m a BCA student focused on understanding how AI models work and building practical machine learning systems.
 
-</div>
+I enjoy experimenting with model architectures, training and fine-tuning language models, and evaluating their performance—not just calling an API and treating the output as a finished product.
 
----
-
-### 💡 About Me
-I'm a BCA student and developer based in Bhopal, India, passionate about building practical software, exploring machine learning pipelines, and crafting developer tools. I love bridging the gap between theoretical computer science and real-world applications.
-
-* 🐍 **Core Stack:** Python, C++, JavaScript
-* 🤖 **AI & ML:** Deep Learning, Generative AI, Fine-tuning, RAG Architectures & LangChain
-* 💻 **Computer Science:** Data Structures & Algorithms (DSA), System Design concepts
-* 🌱 **Open Source:** Active contributor and creator of lightweight utilities
+- 🧠 **Focus:** Machine Learning, Deep Learning, Transformers, and LLM Fine-Tuning
+- 🔬 **Building:** Model-training experiments and practical AI projects
+- 🛠️ **Approach:** Learn the fundamentals → build → evaluate → improve
+- 🎯 **Goal:** Contribute to real AI products through an AI Engineer or ML internship
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧰 Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+| Area | Technologies |
+|---|---|
+| Programming | Python, C++ |
+| Machine Learning | Scikit-learn, model evaluation |
+| Deep Learning | PyTorch, neural networks, Transformers |
+| LLM Engineering | Hugging Face Transformers, PEFT, LoRA |
+| Development Tools | Git, GitHub, Jupyter Notebook, Google Colab |
 
----
-
-### 🔬 Featured Projects
-
-* **[TransformerArch](https://github.com/Xaayu/TransformerArch)**: Exploring and implementing transformer architecture components from scratch in Python.
-* **[support-ticket-lora](https://github.com/Xaayu/support-ticket-lora)**: Fine-tuning Qwen2.5-0.5B with LoRA for customer support ticket classification.
-* **[EvalKit](https://github.com/Xaayu/EvalKit)**: Lightweight, production-focused evaluation and monitoring toolkit designed for scikit-learn models.
+*I keep this list focused on technologies I have used in my projects and can explain.*
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xaayu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Anuj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaayu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</p>
+### 1. Support Ticket Classification with LoRA
+
+Fine-tuned `Qwen2.5-0.5B-Instruct` using parameter-efficient fine-tuning to classify customer support tickets by queue and priority.
+
+- Explored LLM fine-tuning using LoRA/PEFT.
+- Published the adapter and project code.
+- Evaluated predictions and documented the initial results and limitations.
+
+**[GitHub Repository](https://github.com/Xaayu/support-ticket-lora) · [Hugging Face Model](https://huggingface.co/Xaayuu/support-ticket-lora)**
+
+### 2. Transformer Architecture from Scratch
+
+An educational deep learning project exploring Transformer components and encoder-decoder architecture through implementation.
+
+**Repository:** Add your TransformerArch repository link here.
+
+### 3. EvalKit ML
+
+A machine-learning evaluation toolkit project focused on making model evaluation more practical and reusable.
+
+**Repository:** Add your EvalKit ML repository link here.
 
 ---
 
-### 🌐 Connect with me
+## 📚 Current Learning Focus
 
-<p align="center">
-  <a href="https://github.com/Xaayu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/anuj-maurya-4644a6319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/Xaayuu"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-</p>
+- Improving LLM fine-tuning and evaluation workflows
+- Building reproducible ML experiments
+- Developing reliable inference demos
+- Exploring efficient language models and AI engineering practices
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@Xaayu](https://github.com/Xaayu)
+- **Hugging Face:** [@Xaayuu](https://huggingface.co/Xaayuu)
+- **LinkedIn:** Add your LinkedIn profile URL here
+
+*Open to AI Engineer Internships, Machine Learning Internships, and open-source collaboration.*
+
+---
+
+*Build with curiosity. Evaluate with evidence. Improve with every experiment.*
