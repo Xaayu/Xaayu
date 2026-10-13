@@ -38,8 +38,11 @@ I'm a BCA student and developer based in Bhopal, India, passionate about buildin
 
 ---
 
-### 🔬 Featured Project
-* **[EvalKit](https://github.com/Xaayu/EvalKit)**: A lightweight, production-focused evaluation and monitoring toolkit designed for scikit-learn models.
+### 🔬 Featured Projects
+
+* **[TransformerArch](https://github.com/Xaayu/TransformerArch)**: Exploring and implementing transformer architecture components from scratch in Python.
+* **[support-ticket-lora](https://github.com/Xaayu/support-ticket-lora)**: Fine-tuning Qwen2.5-0.5B with LoRA for customer support ticket classification.
+* **[EvalKit](https://github.com/Xaayu/EvalKit)**: Lightweight, production-focused evaluation and monitoring toolkit designed for scikit-learn models.
 
 ---
 
@@ -52,5 +55,10 @@ I'm a BCA student and developer based in Bhopal, India, passionate about buildin
 
 ---
 
-### 🎵 Connect with me
-* 🐙 **GitHub:** [@Xaayu](https://github.com/Xaayu)
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/Xaayu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/anuj-maurya-4644a6319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/Xaayuu"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+</p>
